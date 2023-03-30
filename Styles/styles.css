@@ -7,6 +7,16 @@
     font-size: 20px;
 
 }
+.carousel-item {
+    height: 65vh;
+    min-height: 200px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+  }
 
 body{
     background-color: white;
@@ -26,6 +36,7 @@ body{
     margin-top: 50px;
     font-size: 2rem;
 }
+
 
 .grid{
     display: grid;
