@@ -1,0 +1,19 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscornejo1/Preentrega2---Cornejo-Rodriguez-Luis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiscornejo1/Preentrega2---Cornejo-Rodriguez-Luis/issues"
+  },
+  "homepage": "https://github.com/luiscornejo1/Preentrega2---Cornejo-Rodriguez-Luis#readme"
+}
